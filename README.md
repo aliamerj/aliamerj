@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MySQL**
 
-- 👨‍💻 All of my projects are available at [aliamer.me](aliamer.me)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/jeffAmerson?tab=repositories)
 
 - 📫 How to reach me **job@aliamer.me**
 
