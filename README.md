@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffAmerson&label=Profile%20views&color=0e75b6&style=flat" alt="jeffAmerson" /> </p>
 
-- 🌱 I’m currently learning **Linux**
+- 🌱 I’m currently learning **Linux, Next js**
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/jeffAmerson?tab=repositories)
 
