@@ -1,5 +1,5 @@
 <img align="center" alt="Coding" height="250" width="1060" src="https://images.unsplash.com/photo-1542831371-32f555c86880?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNvZGluZyUyMHNldHVwfGVufDB8fDB8fA%3D%3D&w=1000&q=80"/>
-<h1 align="center">Hi 👋, my name is Ali Amer</h1>
+<h1 align="center">Hi 👋, my name is Ali </h1>
 <h3 align="center">I'm a Full-stack web devloper</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"/>
 
