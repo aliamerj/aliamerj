@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/aliamerj?tab=repositories)
 
-- 📫 How to reach me **job@aliamer.me**
+- 📫 How to reach me **aliamer19ali@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
