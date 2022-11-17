@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliamerj&label=Profile%20views&color=0e75b6&style=flat" alt="aliamerj" /> </p>
 
-- 🌱 I’m currently learning **Linux, Next js**
+- 🌱 I’m currently learning **Linux, Flutter**
 
 - 🔭 I’m currently working with **Project Flux**
 
