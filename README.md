@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Linux, Next js**
 
-- 🔭 I’m currently working on **Project Flux**
+- 🔭 I’m currently working with **Project Flux**
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/aliamerj?tab=repositories)
 
