@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliamerj&label=Profile%20views&color=0e75b6&style=flat" alt="aliamerj" /> </p>
 
-- 🌱 I’m currently learning **app dev**
+- 🌱 I’m currently learning **System level Programming with linux**
 
-- 🔭 I’m currently working with **LangPocke**
+<!-- - 🔭 I’m currently working with **LangPocke** -->
 
 - 👨‍💻 All of my projects are available at [CV](https://cv-aliamer.netlify.app/)
 
