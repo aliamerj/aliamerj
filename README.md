@@ -10,7 +10,7 @@
 
 <!-- - 🔭 I’m currently working with **LangPocke** -->
 
-- 👨‍💻 All of my projects are available at [CV](https://cv-aliamer.netlify.app/)
+- 👨‍💻 All of my projects are available at [CV](https://www.worknify.com/profile/view/37298d16-3dd3-4fc5-8777-075fdbd19af2)
 
 - 📫 How to reach me **aliamer19ali@gmail.com**
 
